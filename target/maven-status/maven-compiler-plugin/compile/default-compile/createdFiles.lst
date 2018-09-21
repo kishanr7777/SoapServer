@@ -1,0 +1,9 @@
+com\example\howtodoinjava\FirstSoapServiceApplication.class
+com\example\howtodoinjava\service\StudentEndPoint.class
+com\howtodoinjava\xml\school\Student.class
+com\howtodoinjava\xml\school\StudentDetailsRequest.class
+com\example\howtodoinjava\service\StudentRepository.class
+com\howtodoinjava\xml\school\StudentDetailsResponse.class
+com\example\howtodoinjava\service\Config.class
+com\howtodoinjava\xml\school\package-info.class
+com\howtodoinjava\xml\school\ObjectFactory.class
